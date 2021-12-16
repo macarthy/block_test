@@ -1,5 +1,6 @@
 # impor to handle any plural/singular conversions
 require 'active_support/core_ext/string'
+require "active_support/isolated_execution_state"
 
 
 

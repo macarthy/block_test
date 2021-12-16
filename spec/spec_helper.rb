@@ -1,2 +1,3 @@
 # just me# just me# just me
- require 'pry'
+require "active_support/isolated_execution_state"
+require 'pry'
